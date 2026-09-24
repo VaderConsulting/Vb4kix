@@ -21,7 +21,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Vb4kix`.
+Working copy from my Historical Dev folder `VB/Vb4kix`.
 Company names in `.vbp` files: Freelance.
 
 ## License
